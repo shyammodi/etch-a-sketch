@@ -1,0 +1,11 @@
+/* styles.css */
+
+#gridContainer {
+    display: flex;
+    flex-wrap: wrap;
+    border: black solid 5px;
+}
+
+.colored {
+    background-color: blueviolet;
+}
